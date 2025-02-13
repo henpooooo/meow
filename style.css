@@ -22,7 +22,7 @@ body {
 #question {
     font-family: 'Indie+Flower', cursive; /* Apply Sacramento font to the question */
     font-size: 30px;
-     color: white;/* Set font size for the question */
+     color: black;/* Set font size for the question */
 }
 
 #options {
